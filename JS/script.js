@@ -11,7 +11,7 @@ console.log(y);
 //convert Celsius to Fahrenheit
 
 let C=(25);
-let F=(C+33.8);
+let F=(C*33.8);
 
 console.log(F);
 
@@ -19,7 +19,7 @@ console.log(F);
 
 
 let f=(98);
-let c=(f-33.8);
+let c=(f/33.8);
 
 console.log(c);
 
